@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756178604808",
+    "project_id": "uda-phonghv",
+    "storage_bucket": "uda-phonghv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756178604808:android:f0f1e6db5ce173901ed2bd",
+        "android_client_info": {
+          "package_name": "com.uda.phonghv.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756178604808-rf099hoej499u7rc60bmg0tf3b0bcdtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFyrIhTlTzTnIT2Yjnh1mbv3XuoJepJL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756178604808-rf099hoej499u7rc60bmg0tf3b0bcdtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
